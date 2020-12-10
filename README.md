@@ -1,2 +1,5 @@
 # hello-world
-Newbie repository
+
+Hello humans!
+
+I like coding
